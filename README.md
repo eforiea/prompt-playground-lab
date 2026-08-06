@@ -37,7 +37,6 @@ Prompt-Playground-Lab/
 │
 ├── experiments/
 ├── docs/
-|     └── note.md
 ├── main.py
 ├── test_case.json
 ├── test_result.json
@@ -52,8 +51,8 @@ Prompt-Playground-Lab/
 Clone the repository:
 
 ```bash
-git clone https://github.com/eforiea/Prompt-Playground-Lab.git
-cd Prompt-Playground-Lab
+git clone https://github.com/eforiea/prompt-playground-lab.git
+cd prompt-playground-lab
 ```
 
 Create a virtual environment:
